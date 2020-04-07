@@ -1,0 +1,13 @@
+C:\Users\intel\source\repos\Simulation-Banking-Cash-counter-Queue\bin\Debug\netcoreapp3.1\Simulation-Banking-Cash-counter-Queue.exe
+C:\Users\intel\source\repos\Simulation-Banking-Cash-counter-Queue\bin\Debug\netcoreapp3.1\Simulation-Banking-Cash-counter-Queue.deps.json
+C:\Users\intel\source\repos\Simulation-Banking-Cash-counter-Queue\bin\Debug\netcoreapp3.1\Simulation-Banking-Cash-counter-Queue.runtimeconfig.json
+C:\Users\intel\source\repos\Simulation-Banking-Cash-counter-Queue\bin\Debug\netcoreapp3.1\Simulation-Banking-Cash-counter-Queue.runtimeconfig.dev.json
+C:\Users\intel\source\repos\Simulation-Banking-Cash-counter-Queue\bin\Debug\netcoreapp3.1\Simulation-Banking-Cash-counter-Queue.dll
+C:\Users\intel\source\repos\Simulation-Banking-Cash-counter-Queue\bin\Debug\netcoreapp3.1\Simulation-Banking-Cash-counter-Queue.pdb
+C:\Users\intel\source\repos\Simulation-Banking-Cash-counter-Queue\obj\Debug\netcoreapp3.1\Simulation-Banking-Cash-counter-Queue.csprojAssemblyReference.cache
+C:\Users\intel\source\repos\Simulation-Banking-Cash-counter-Queue\obj\Debug\netcoreapp3.1\Simulation-Banking-Cash-counter-Queue.csproj.CoreCompileInputs.cache
+C:\Users\intel\source\repos\Simulation-Banking-Cash-counter-Queue\obj\Debug\netcoreapp3.1\Simulation-Banking-Cash-counter-Queue.AssemblyInfoInputs.cache
+C:\Users\intel\source\repos\Simulation-Banking-Cash-counter-Queue\obj\Debug\netcoreapp3.1\Simulation-Banking-Cash-counter-Queue.AssemblyInfo.cs
+C:\Users\intel\source\repos\Simulation-Banking-Cash-counter-Queue\obj\Debug\netcoreapp3.1\Simulation-Banking-Cash-counter-Queue.dll
+C:\Users\intel\source\repos\Simulation-Banking-Cash-counter-Queue\obj\Debug\netcoreapp3.1\Simulation-Banking-Cash-counter-Queue.pdb
+C:\Users\intel\source\repos\Simulation-Banking-Cash-counter-Queue\obj\Debug\netcoreapp3.1\Simulation-Banking-Cash-counter-Queue.genruntimeconfig.cache
